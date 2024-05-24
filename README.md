@@ -42,7 +42,7 @@ Come prima cosa far eseguire tutte le celle in ordine, poi si potranno esegure t
 ## modelli per la regressione :
    1. **regressione lineare con equazione normale**
    2. **regressione lineare con discesa del gradiente stocastica (SGD)**
-   3. ** Reti neurali**
+   3. **Reti neurali**
 ## medelli per la classificazione
    1. **regresione logistica**
    2. **alberi di classificazione decisionale**
@@ -50,4 +50,54 @@ Come prima cosa far eseguire tutte le celle in ordine, poi si potranno esegure t
 
 ---
 
-   
+# Modelli-I.A
+Project for the Fundamentals of AI course for the Ingenerai computer science and automation course at Sapienza University.
+Project assergano by professor Fabrizio Silvestri for the course duralte the academic year 2023/2024
+
+# Instructions
+
+## Prerequisites.
+
+* Python 3.10 or higher
+
+## Dependencies
+
+install modules:
+
+1. numpy
+   ```bash
+    pip install numpy
+   ```
+2. pandas
+   ```bash
+   pip install pandas
+   ```
+3. matplotlib
+   ```bash
+   pip install matplotlib
+   ```
+4. seaborn
+   ```bash
+   pip install seaborn
+   ```
+5. sklearn (not used to implement models but only to compare them)
+   ```bash
+   pip install seaborn
+   ```
+
+## Startup Instructions.
+
+First run all cells in order, then you can run them all individually as you wish.
+
+## Models implemented.
+
+## models for regression :
+   1. **linear regression with normal equation**
+   2. **linear regression with stochastic gradient descent (SGD)**
+   3. **Neural networks**
+## medelli for classification
+   1. **logistic regression**
+   2. **decision classification trees**
+   3. **K nearest neighbors (KNN)**
+
+Translated with DeepL.com (free version)
