@@ -28,7 +28,7 @@ installa i moduli:
    ```bash
    pip install seaborn
    ```
-5. sklearn
+5. sklearn (non usato per implementare i modelli ma solo per confrontarli)
    ```bash
    pip install seaborn
    ```
@@ -40,5 +40,14 @@ Come prima cosa far eseguire tutte le celle in ordine, poi si potranno esegure t
 # Modelli implementati
 
 ## modelli per la regressione :
-   1. **regressione lineare** 
+   1. **regressione lineare con equazione normale**
+   2. **regressione lineare con discesa del gradiente stocastica (SGD)**
+   3. ** Reti neurali**
+## medelli per la classificazione
+   1. **regresione logistica**
+   2. **alberi di classificazione decisionale**
+   3. **K nearest neighbors (KNN)**
+
+---
+
    
