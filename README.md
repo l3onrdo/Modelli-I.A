@@ -13,9 +13,9 @@ Progetto assergano dal professore Fabrizio Silvestri per il corso duralte l'anno
 installa i moduli:
 
 1. numpy
-  ```bash
-   pip install numpy
-  ```
+   ```bash
+    pip install numpy
+   ```
 2. pandas
    ```bash
    pip install pandas
@@ -39,6 +39,6 @@ Come prima cosa far eseguire tutte le celle in ordine, poi si potranno esegure t
 
 # Modelli implementati
 
-* modelli per la regressione :
-   * regressione lineare 
+## modelli per la regressione :
+   1. **regressione lineare** 
    
