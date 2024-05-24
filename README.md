@@ -1,6 +1,6 @@
 # Modelli-I.A
-Progetto per il corso di fondamenti di IA per il corso di studi di Ingenerai informatica ed automatica alla Sapienza.
-Progetto assegnato dal professore Fabrizio Silvestri per il corso duralte l'anno accademico 2023/2024
+Progetto per il corso di fondamenti di IA per il corso di studi di Ingegneria informatica ed automatica alla Sapienza.
+Progetto assegnato dal professore Fabrizio Silvestri per il corso durante l'anno accademico 2023/2024
 
 # Istruzioni
 
@@ -35,7 +35,7 @@ installa i moduli:
 
 ## Istruzioni per l'Avvio
 
-Come prima cosa far eseguire tutte le celle in ordine, poi si potranno esegure tutte singolarmente come si vuole.
+Come prima cosa far eseguire tutte le celle in ordine, poi si potranno eseguire tutte singolarmente come si vuole.
 
 # Modelli implementati
 
