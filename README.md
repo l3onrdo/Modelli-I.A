@@ -1,6 +1,6 @@
 # Modelli-I.A
 Progetto per il corso di fondamenti di IA per il corso di studi di Ingenerai informatica ed automatica alla Sapienza.
-Progetto assergano dal professore Fabrizio Silvestri per il corso duralte l'anno accademico 2023/2024
+Progetto assegnato dal professore Fabrizio Silvestri per il corso duralte l'anno accademico 2023/2024
 
 # Istruzioni
 
@@ -52,7 +52,7 @@ Come prima cosa far eseguire tutte le celle in ordine, poi si potranno esegure t
 
 # Modelli-I.A
 Project for the Fundamentals of AI course for the Ingenerai computer science and automation course at Sapienza University.
-Project assergano by professor Fabrizio Silvestri for the course duralte the academic year 2023/2024
+Project assigned by professor Fabrizio Silvestri for the course duralte the academic year 2023/2024
 
 # Instructions
 
@@ -99,5 +99,3 @@ First run all cells in order, then you can run them all individually as you wish
    1. **logistic regression**
    2. **decision classification trees**
    3. **K nearest neighbors (KNN)**
-
-Translated with DeepL.com (free version)
